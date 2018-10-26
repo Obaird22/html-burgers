@@ -65,3 +65,12 @@
   background: #656565;
   border-radius: 20px 20px 200px 200px;
 }
+
+.bacon {
+   Height: 10px;
+   width: 56%;
+   background: #B41F1F;
+   border-radius: 20px 20px 40px 40px;
+   border-top: solid 5px #EEBF77(255,255,255,.2)
+  }
+
